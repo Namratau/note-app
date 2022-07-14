@@ -25,7 +25,7 @@ or
 
 ## Screenshots
 <img src="github_assets/edit.gif" height="800">
-<img src="github_assets/dark.gif" height="800">
+
 
 Feedback is welcome! Contact me for any info.
 
